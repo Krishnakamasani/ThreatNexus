@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Example Threat",
+    "confidence": 85,
+    "tags": [
+      "malware",
+      "c2"
+    ]
+  }
+]

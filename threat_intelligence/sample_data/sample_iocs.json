@@ -1,0 +1,12 @@
+[
+  {
+    "type": "ipv4",
+    "value": "198.51.100.10",
+    "severity": "high"
+  },
+  {
+    "type": "domain",
+    "value": "malicious.example",
+    "severity": "medium"
+  }
+]
